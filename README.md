@@ -3,8 +3,12 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-  <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  <a href="https://t.me/Face1ess">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/vasaleser">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
 </div>
 
 ### Hi there 👋

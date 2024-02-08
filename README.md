@@ -10,8 +10,13 @@
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
 </div>
+<div>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-### Hi there 👋
 
 <!--
 **dev-c0de/dev-c0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
